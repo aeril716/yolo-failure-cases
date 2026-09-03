@@ -35,7 +35,7 @@ When the dog and the background are the same color and texture, the outline disa
 
 COCO has no "flower" class. The closest thing it knows is "vase", so that is what it says.
 
-![IMG_3398](images/IMG_3398.jpeg)
+<img src="images/IMG_3398.jpeg" width="400">
 `IMG_3398` — predicted **vase (0.66)**. Actual: roses.
 
 ## Why this matters
