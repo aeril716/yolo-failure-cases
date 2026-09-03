@@ -18,7 +18,7 @@ The mistakes are not random. They fall into three groups.
 
 The model has mostly seen dogs standing or lying flat. A dog on her back, seen from above, looks like a stuffed toy. A dog draped over a chair arm looks like a cat.
 
-<img src="images/IMG_1760.jpeg" width="400">
+<img src="images/IMG_1762.jpeg" width="400">
 `IMG_1760` — predicted **teddy bear (0.60)**. Actual: May, on her back.
 
 <img src="images/IMG_3936.jpeg" width="400">
