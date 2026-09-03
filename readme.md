@@ -18,17 +18,17 @@ The mistakes are not random. They fall into three groups.
 
 The model has mostly seen dogs standing or lying flat. A dog on her back, seen from above, looks like a stuffed toy. A dog draped over a chair arm looks like a cat.
 
-![IMG_1760](images/IMG_1760.jpeg)
+<img src="images/IMG_1760.jpeg" width="400">
 `IMG_1760` — predicted **teddy bear (0.60)**. Actual: May, on her back.
 
-![IMG_3936](images/IMG_3936.jpeg)
+<img src="images/IMG_3936.jpeg" width="400">
 `IMG_3936` — predicted **cat (0.57)**. Actual: Hazel, on a chair.
 
 ### 2. No edge between object and background
 
 When the dog and the background are the same color and texture, the outline disappears and the model guesses from the rough shape.
 
-![IMG_3468](images/IMG_3468.jpeg)
+<img src="images/IMG_3468.jpeg" width="400">
 `IMG_3468` — predicted **bear (0.46)**. Actual: May, face half buried in a fur cushion.
 
 ### 3. The class does not exist
